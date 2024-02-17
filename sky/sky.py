@@ -1,2 +1,2 @@
-print(sky)
-print(sky3)
+print("sky")
+print("sky2")
