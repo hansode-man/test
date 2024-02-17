@@ -1,1 +1,2 @@
-print(sky)
+print("sky")
+print("sky2")
